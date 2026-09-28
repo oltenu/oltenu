@@ -1,8 +1,6 @@
 # Darius Oltean
 
-**`Computer Science Student`**
-
-I am a computer science student with a keen enthusiasm for learning and exploring new technologies to enhance my skills and gain valuable experience. My GitHub profile serves as a software developer portfolio, showcasing my projects and demonstrating my commitment to continuous growth in the field.
+**`Software Engineer`**
 
 ---
 
